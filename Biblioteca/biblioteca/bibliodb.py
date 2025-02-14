@@ -1,9 +1,9 @@
 import sqlite3
 
 class BiblioDB:
-   # def connect_db():
-   #     db=sqlite3.connect("biblio.db")
-   # def close_db(db):
+    # def connect_db():
+    #     db=sqlite3.connect("biblio.db")
+    # def close_db(db):
     #    db.close()   
 
         
